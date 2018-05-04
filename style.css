@@ -1,0 +1,16 @@
+.ul{flex-direction: column-reverse;
+		left:50px;
+		justify-content: left;
+		background-position: relative;
+}
+
+.gatomesa{ width: 50%;
+}
+
+.gatojane{width: 50%;
+}
+
+.gato{width: 100%;
+}
+
+
